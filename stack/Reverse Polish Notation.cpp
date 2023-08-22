@@ -1,5 +1,9 @@
-#include<bits/stdc++.h>
+
+#include <iostream>
+#include <stack>
 #include <stdlib.h>
+#include <vector>
+#include <string>
 
 using namespace std;
 
