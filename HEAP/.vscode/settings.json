@@ -56,8 +56,8 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "files.associations": {
-    "vector": "cpp",
+    "iostream": "cpp",
     "ostream": "cpp",
-    "iostream": "cpp"
+    "vector": "cpp"
   }
 }
