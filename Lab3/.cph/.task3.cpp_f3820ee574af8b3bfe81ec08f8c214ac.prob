@@ -1,0 +1,1 @@
+{"name":"Local: task3","url":"f:\\CSE 3rd Semister\\CSE 4304\\Lab3\\task3.cpp","tests":[{"id":1695785326657,"input":"1 3 \n3\n","output":""},{"id":1695785347943,"input":"1 2 3\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CSE 3rd Semister\\CSE 4304\\Lab3\\task3.cpp","group":"local","local":true}
